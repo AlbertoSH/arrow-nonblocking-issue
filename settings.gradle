@@ -1,0 +1,4 @@
+rootProject.name = 'arrow-issue'
+
+include 'arrow-0.9.0'
+include 'arrow-0.10.0-SNAPSHOT'
